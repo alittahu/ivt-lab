@@ -53,11 +53,9 @@ public class TorpedoStore {
 
   public boolean isEmpty(){
     return this.torpedoCount <= 0;
-    //added a new comment for branch-A
   }
 
   public int getTorpedoCount() {
     return this.torpedoCount;
-    //added comment for branch-B
   }
 }
