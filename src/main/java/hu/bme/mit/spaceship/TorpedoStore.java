@@ -58,5 +58,6 @@ public class TorpedoStore {
 
   public int getTorpedoCount() {
     return this.torpedoCount;
+    //added comment for branch-B
   }
 }
